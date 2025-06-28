@@ -23,33 +23,26 @@ https://d3749synfikwkv.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/11223/tv8web/master.m3u8?hdnea=st=1701861650~exp=1765449000~acl=/*~hmac=84c9f3f71e57b13c3a67afa8b29a8591ea9ed84bf786524399545d94be1ec04d
 #EXTINF:-1 tvg-id="Nove.it" tvg-chno="9" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/nove.png" group-title="Discovery",NOVE
 https://amg16146-wbdi-amg16146c1-samsung-it-1831.playouts.now.amagi.tv/playlist/amg16146-warnerbrosdiscoveryitalia-nove-samsungit/playlist.m3u8
-#EXTINF:-1 tvg-id="20Mediaset.it" tvg-chno="10" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/20mediaset.png" group-title="Mediaset",20 Mediaset
-#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
-https://live02-seg.msf.cdn.mediaset.net/live/ch-lb/lb-clr.isml/index.m3u8
-#EXTINF:-1 tvg-id="Rai4.it" tvg-chno="11" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/rai4.png" group-title="Rai",Rai 4
-#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
-http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746966&output=7&forceUserAgent=raiplayappletv
-#EXTINF:-1 tvg-id="Iris.it" tvg-chno="12" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/iris.png" group-title="Mediaset",Iris
-#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
-https://live02-seg.msf.cdn.mediaset.net/live/ch-ki/ki-clr.isml/index.m3u8
-#EXTINF:-1 tvg-id="Rai5.it" tvg-chno="13" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/rai5.png" group-title="Rai",Rai 5
-#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
-http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=395276&output=7&forceUserAgent=raiplayappletv
-#EXTINF:-1 tvg-id="RaiMovie.it" tvg-chno="14" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/raimovie.png" group-title="Rai",Rai Movie
-#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
-http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747002&output=7&forceUserAgent=raiplayappletv
-#EXTINF:-1 tvg-id="RaiPremium.it" tvg-chno="15" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/raipremium.png" group-title="Rai",Rai Premium
-#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
-http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746992&output=7&forceUserAgent=raiplayappletv
-#EXTINF:-1 tvg-id="CieloTv.it" tvg-chno="16" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/cielo.png" group-title="Sky",Cielo
-https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/11219/cieloweb/master.m3u8?hdnea=st=1701861650~exp=1765449000~acl=/*~hmac=84c9f3f71e57b13c3a67afa8b29a8591ea9ed84bf786524399545d94be1ec04d
-#EXTINF:-1 tvg-id="TwentySeven.it" tvg-chno="17" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/twentyseven.png" group-title="Mediaset",Twenty Seven
-#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
-https://live02-seg.msf.cdn.mediaset.net/live/ch-ts/ts-clr.isml/index.m3u8
-#EXTINF:-1 tvg-id="TV2000.it" tvg-chno="18" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/tv2000.png" group-title="Altro",TV2000
-https://hls-live-tv2000.akamaized.net/hls/live/2028510/tv2000/master.m3u8
-#EXTINF:-1 tvg-id="LA7D.it" tvg-chno="19" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/la7d.png" group-title="Altro",LA7d
-https://viamotionhsi.netplus.ch/live/eds/la7d/browser-HLS8/la7d.m3u8
+##EXTINF:-1 tvg-id="6093f48c95132a00075fd859" tvg-name="Just for Laughs GAGS" tvg-logo="https://images.pluto.tv/channels/6093f48c95132a00075fd859/colorLogoPNG_1745912777006.png" group-title="Comedy" tvg-chno="10", Just for Laughs GAGS
+https://stitcher.pluto.tv/stitch/hls/channel/6093f48c95132a00075fd859/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=340d47b8-53b7-11f0-a82d-be3b20bfaa79
+#EXTINF:-1 tvg-id="67851bd7d648bf0008c00bc2" tvg-name="Winx Club" tvg-logo="https://images.pluto.tv/channels/67851bd7d648bf0008c00bc2/colorLogoPNG.png" group-title="Animazione e Bambini" tvg-chno="11", Winx Club
+https://stitcher.pluto.tv/stitch/hls/channel/67851bd7d648bf0008c00bc2/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=340d47b8-53b7-11f0-a82d-be3b20bfaa79
+#EXTINF:-1 tvg-id="6093f9281db477000759fce0" tvg-name="Super! SpongeBob" tvg-logo="https://images.pluto.tv/channels/6093f9281db477000759fce0/colorLogoPNG_1749451468739.png" group-title="Animazione e Bambini" tvg-chno="12", Super! SpongeBob
+https://stitcher.pluto.tv/stitch/hls/channel/6093f9281db477000759fce0/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=340d47b8-53b7-11f0-a82d-be3b20bfaa79
+#EXTINF:-1 tvg-id="63eb82e24e83e70008ab735f" tvg-name="Yu-Gi-Oh!" tvg-logo="https://images.pluto.tv/channels/63eb82e24e83e70008ab735f/colorLogoPNG.png" group-title="Animazione e Bambini" tvg-chno="13", Yu-Gi-Oh!
+https://stitcher.pluto.tv/stitch/hls/channel/63eb82e24e83e70008ab735f/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=340d47b8-53b7-11f0-a82d-be3b20bfaa79
+#EXTINF:-1 tvg-id="65b90daed77d450008a43345" tvg-name="Pluto TV Anime" tvg-logo="https://images.pluto.tv/channels/65b90daed77d450008a43345/colorLogoPNG_1747395522672.png" group-title="Animazione e Bambini" tvg-chno="14", Pluto TV Anime
+https://stitcher.pluto.tv/stitch/hls/channel/65b90daed77d450008a43345/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=340d47b8-53b7-11f0-a82d-be3b20bfaa79
+#EXTINF:-1 tvg-id="612375086abc84000738fc03" tvg-name="Inazuma Eleven" tvg-logo="https://images.pluto.tv/channels/612375086abc84000738fc03/colorLogoPNG-1668928583258.png" group-title="Animazione e Bambini" tvg-chno="15", Inazuma Eleven
+https://stitcher.pluto.tv/stitch/hls/channel/612375086abc84000738fc03/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=340d47b8-53b7-11f0-a82d-be3b20bfaa79
+#EXTINF:-1 tvg-id="62619405c733e8000732d1fe" tvg-name="Teenage Mutant Ninja Turtles" tvg-logo="https://images.pluto.tv/channels/62619405c733e8000732d1fe/colorLogoPNG.png" group-title="Animazione e Bambini" tvg-chno="16", Teenage Mutant Ninja Turtles
+https://stitcher.pluto.tv/stitch/hls/channel/62619405c733e8000732d1fe/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=340d47b8-53b7-11f0-a82d-be3b20bfaa79
+#EXTINF:-1 tvg-id="66a8c64814a2bb00084d09d6" tvg-name="Gormiti" tvg-logo="https://images.pluto.tv/channels/66a8c64814a2bb00084d09d6/colorLogoPNG.png" group-title="Animazione e Bambini" tvg-chno="17", Gormiti
+https://stitcher.pluto.tv/stitch/hls/channel/66a8c64814a2bb00084d09d6/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=340d47b8-53b7-11f0-a82d-be3b20bfaa79
+#EXTINF:-1 tvg-id="622a2d8da9d8210007d918c2" tvg-name="Pluto TV Kids Ukraine" tvg-logo="https://images.pluto.tv/channels/622a2d8da9d8210007d918c2/colorLogoPNG.png" group-title="Animazione e Bambini" tvg-chno="18", Pluto TV Kids Ukraine
+https://stitcher.pluto.tv/stitch/hls/channel/622a2d8da9d8210007d918c2/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=340d47b8-53b7-11f0-a82d-be3b20bfaa79
+#EXTINF:-1 tvg-id="609401db8cf51c00084b592e" tvg-name="Super! iCarly" tvg-logo="https://images.pluto.tv/channels/609401db8cf51c00084b592e/colorLogoPNG_1749451591847.png" group-title="Teen" tvg-chno="19", Super! iCarly
+https://stitcher.pluto.tv/stitch/hls/channel/609401db8cf51c00084b592e/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=340d47b8-53b7-11f0-a82d-be3b20bfaa79
 #EXTINF:-1 tvg-id="20Mediaset.it" tvg-chno="20" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/20mediaset.png" group-title="Mediaset",20 Mediaset
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://live02-seg.msf.cdn.mediaset.net/live/ch-lb/lb-clr.isml/index.m3u8
@@ -114,9 +107,8 @@ http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746953&output=7&force
 http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746899&output=7&forceUserAgent=raiplayappletv
 #EXTINF:-1 tvg-id="Frisbee.it" tvg-chno="44" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/frisbee.png" group-title="Discovery",Frisbee
 https://amg16146-wbdi-amg16146c7-samsung-it-1840.playouts.now.amagi.tv/playlist/amg16146-warnerbrosdiscoveryitalia-frisbee-samsungit/playlist.m3u8
-#EXTINF:-1 tvg-id="Cartoonito.it" tvg-chno="45" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/cartoonito.png" group-title="Mediaset",Cartoonito
-#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
-https://live02-seg.msf.cdn.mediaset.net/live/ch-la/la-clr.isml/index.m3u8
+#EXTINF:-1 tvg-id="63c012504faf1c0007abfa93" tvg-name="Super! Victorious" tvg-logo="https://images.pluto.tv/channels/63c012504faf1c0007abfa93/colorLogoPNG_1749480683796.png" group-title="Teen" tvg-chno="45", Super! Victorious
+https://stitcher.pluto.tv/stitch/hls/channel/63c012504faf1c0007abfa93/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=340d47b8-53b7-11f0-a82d-be3b20bfaa79
 #EXTINF:-1 tvg-id="Cartoonito.it" tvg-chno="46" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/cartoonito.png" group-title="Mediaset",Cartoonito
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://live02-seg.msf.cdn.mediaset.net/live/ch-la/la-clr.isml/index.m3u8
@@ -135,9 +127,8 @@ https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/12221/web/master.m3u8?hdnt
 https://live02-seg.msf.cdn.mediaset.net/live/ch-kf/kf-clr.isml/index.m3u8
 #EXTINF:-1 tvg-id="DMAX.it" tvg-chno="52" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/dmax.png" group-title="Discovery",DMAX
 https://amg16146-wbdi-amg16146c8-samsung-it-1841.playouts.now.amagi.tv/playlist/amg16146-warnerbrosdiscoveryitalia-dmax-samsungit/playlist.m3u8
-#EXTINF:-1 tvg-id="RaiStoria.it" tvg-chno="53" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/raistoria.png" group-title="Rai",Rai Storia
-#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
-http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746990&output=7&forceUserAgent=raiplayappletv
+#EXTINF:-1 tvg-id="6304ed62410a4c00083c0291" tvg-name="Super! Zoey 101" tvg-logo="https://images.pluto.tv/channels/6304ed62410a4c00083c0291/colorLogoPNG_1749451764425.png" group-title="Teen" tvg-chno="53", Super! Zoey 101
+https://stitcher.pluto.tv/stitch/hls/channel/6304ed62410a4c00083c0291/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=340d47b8-53b7-11f0-a82d-be3b20bfaa79
 #EXTINF:-1 tvg-id="RaiStoria.it" tvg-chno="54" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/raistoria.png" group-title="Rai",Rai Storia
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746990&output=7&forceUserAgent=raiplayappletv
